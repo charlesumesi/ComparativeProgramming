@@ -16,7 +16,7 @@ class Person {
     this.a = 'is a';
     this.b = 'year old';
     this.c = 'interested in';
-    console.log(`${this.first} ${this.last} ${this.a} ${this.age} ${this.b} ${this.gender} ${this.c} ${this.interests}`);
+    console.log(`${this.first} ${this.last} ${this.a} ${this.age} ${this.b} ${this.gender}, ${this.c} ${this.interests}`);
   };
 }
 
