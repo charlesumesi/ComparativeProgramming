@@ -1,4 +1,3 @@
-#include <string>
 #include "Person_C++Example1.h"
 
 // New class inherits all methods in Person
