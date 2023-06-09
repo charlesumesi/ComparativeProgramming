@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 #include "Person_C++Example2.h"
 using namespace std;
 
