@@ -2,7 +2,7 @@
 #include <string>
 #include <iostream>
 
-// New class inherits only methods in the public domain of Person2 whilst Assistant handles the exception due to attempted access to the private domain of Person
+// New class inherits only methods in the public domain of Person2 whilst Assistant handles the exception due to attempted access to the private domain of Person2
 class Teacher: public Person2, public Assistant {
   public:
     void intro(std::string first, std::string last, std::string subject) {
