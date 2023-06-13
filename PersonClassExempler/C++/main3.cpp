@@ -3,7 +3,6 @@
 #include "Person_C++Example3b.h"
 using namespace std;
 
-
 int main() {
 
   // Teacher instance (object) 
